@@ -14,6 +14,11 @@
     <ContentView.Content>
 
         <Frame CornerRadius="5" Margin="0" Padding="0">
+            
+            <Frame.GestureRecognizers>
+                <TapGestureRecognizer Command="{Binding ClickCommand}" />
+            </Frame.GestureRecognizers>
+            
             <Grid>
                 <StackLayout Padding="0" Margin="0">
                     <Image HeightRequest="140" Source="{Binding ImagePath, Converter={StaticResource stringToImage}}" Aspect="AspectFill" />

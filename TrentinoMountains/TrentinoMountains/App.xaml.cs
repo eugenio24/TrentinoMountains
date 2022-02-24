@@ -11,7 +11,7 @@ namespace TrentinoMountains
         {
             InitializeComponent();
 
-            MainPage = new HomePageView();
+            MainPage = new NavigationPage(new HomePageView());
         }
 
         protected override void OnStart()

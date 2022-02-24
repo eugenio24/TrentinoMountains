@@ -11,11 +11,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Resources\Images\HomePage\custom-tracks.jpg" />
     <None Remove="Resources\Images\HomePage\sentieri-sat.jpg" />
     <None Remove="Resources\Images\user.png" />
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Include="Resources\Images\HomePage\custom-tracks.jpg" />
     <EmbeddedResource Include="Resources\Images\HomePage\sentieri-sat.jpg" />
     <EmbeddedResource Include="Resources\Images\user.png" />
   </ItemGroup>
@@ -41,7 +43,13 @@
     <EmbeddedResource Update="CustomControls\Views\HomePageCardView.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Update="Views\CustomTracksView.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
     <EmbeddedResource Update="Views\HomePageView.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\SentieriSATView.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
   </ItemGroup>

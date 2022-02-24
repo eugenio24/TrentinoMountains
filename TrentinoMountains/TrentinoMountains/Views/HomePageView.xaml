@@ -5,7 +5,8 @@
              xmlns:custom="clr-namespace:TrentinoMountains.CustomControls.Views" 
              xmlns:viewmodels="clr-namespace:TrentinoMountains.ViewModels" 
              x:DataType="viewmodels:HomePageViewModel"
-             x:Class="TrentinoMountains.Views.HomePageView">
+             x:Class="TrentinoMountains.Views.HomePageView"
+             NavigationPage.HasNavigationBar="false">
 
     <StackLayout>
 
@@ -38,7 +39,7 @@
 
 
             <custom:HomePageCardView BindingContext="{Binding Card_SentieriSAT}" Grid.Row="0" Grid.Column="1"/>
-            <!--<custom:HomePageCardView Grid.Row="1" Grid.Column="1"/>-->
+            <custom:HomePageCardView BindingContext="{Binding Card_CustomTracks}"  Grid.Row="1" Grid.Column="1"/>
 
         </Grid>
 

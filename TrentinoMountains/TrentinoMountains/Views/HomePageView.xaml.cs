@@ -15,7 +15,7 @@ namespace TrentinoMountains.Views
         public HomePageView()
         {
             InitializeComponent();
-            BindingContext = new HomePageViewModel();
+            BindingContext = new HomePageViewModel(Navigation);
         }
     }
 }
