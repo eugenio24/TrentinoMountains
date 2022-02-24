@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:TrentinoMountains.MarkupExtensions;assembly=TrentinoMountains" 
+             xmlns:viewmodels="clr-namespace:TrentinoMountains.CustomControls.ViewModels" 
+             xmlns:converter="clr-namespace:TrentinoMountains.Utils"
+             x:DataType="viewmodels:HomePageCardViewModel"
+             x:Class="TrentinoMountains.CustomControls.Views.HomePageCardView">
+    <ContentView.Resources>
+        <ResourceDictionary>
+            <converter:StringToImageSourceConverter x:Key="stringToImage" />
+        </ResourceDictionary>
+    </ContentView.Resources>
+    <ContentView.Content>
+
+        <Frame CornerRadius="5" Margin="0" Padding="0">
+            <Grid>
+                <StackLayout Padding="0" Margin="0">
+                    <Image HeightRequest="140" Source="{Binding ImagePath, Converter={StaticResource stringToImage}}" Aspect="AspectFill" />
+                </StackLayout>
+                <StackLayout>
+                    <Frame HeightRequest="140">
+                        <Frame.Background>
+                            <LinearGradientBrush>
+                                <GradientStop Color="Transparent" Offset="0.0"/>
+                                <GradientStop Color="#D9000000" Offset="1"/>
+                            </LinearGradientBrush>
+                        </Frame.Background>
+                        <StackLayout  VerticalOptions="EndAndExpand" HorizontalOptions="EndAndExpand" Margin="20" Padding="10">
+                            <Label Text="{Binding LabelText}" TextColor="WhiteSmoke" FontSize="20" />
+                        </StackLayout>
+                    </Frame>
+                </StackLayout>
+            </Grid>
+        </Frame>
+
+    </ContentView.Content>
+</ContentView>

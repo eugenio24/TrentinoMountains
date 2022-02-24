@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:TrentinoMountains.MarkupExtensions;assembly=TrentinoMountains"
+             xmlns:custom="clr-namespace:TrentinoMountains.CustomControls.Views" 
+             xmlns:viewmodels="clr-namespace:TrentinoMountains.ViewModels" 
+             x:DataType="viewmodels:HomePageViewModel"
+             x:Class="TrentinoMountains.Views.HomePageView">
+
+    <StackLayout>
+
+        <Grid Margin="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="40" />
+            </Grid.ColumnDefinitions>
+            <Label Grid.Column="0" VerticalOptions="Center" FontSize="20">Montagne del Trentino</Label>
+            <Frame Grid.Column="1" BorderColor="Black" CornerRadius="100" Padding="7" Margin="0">
+                <Image Source="{local:ImageResource TrentinoMountains.Resources.Images.user.png}" Aspect="AspectFit" />
+            </Frame>
+        </Grid>
+
+        <Grid>
+            <Grid.RowDefinitions>
+
+                <RowDefinition Height="140" />
+                <RowDefinition Height="140" />
+
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="5" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="5" />
+            </Grid.ColumnDefinitions>
+
+
+            <custom:HomePageCardView BindingContext="{Binding Card_SentieriSAT}" Grid.Row="0" Grid.Column="1"/>
+            <!--<custom:HomePageCardView Grid.Row="1" Grid.Column="1"/>-->
+
+        </Grid>
+
+    </StackLayout>
+</ContentPage>
