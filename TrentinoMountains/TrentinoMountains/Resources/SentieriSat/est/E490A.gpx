@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.2.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="46.217767269079161" minlon="11.155391002223913" maxlat="46.218382850977413" maxlon="11.157563787398539"/></metadata>                  
+<trk>
+  <name>E490A</name>
+  <desc>SENTIERO NORMALE DI RIENTRO</desc>
+  <trkseg>
+    <trkpt lat="46.218304637144108" lon="11.155391002223913">
+    </trkpt>
+    <trkpt lat="46.218287106455101" lon="11.155490153900349">
+    </trkpt>
+    <trkpt lat="46.218297657141434" lon="11.155689464872882">
+    </trkpt>
+    <trkpt lat="46.218290808023973" lon="11.156052503083581">
+    </trkpt>
+    <trkpt lat="46.218330108529202" lon="11.156492940267333">
+    </trkpt>
+    <trkpt lat="46.218272075614124" lon="11.156792385289828">
+    </trkpt>
+    <trkpt lat="46.218255901993352" lon="11.156895868391732">
+    </trkpt>
+    <trkpt lat="46.21825044707937" lon="11.156941683852134">
+    </trkpt>
+    <trkpt lat="46.218267748432503" lon="11.156988261115128">
+    </trkpt>
+    <trkpt lat="46.218303304353164" lon="11.157035683202226">
+    </trkpt>
+    <trkpt lat="46.218347911449584" lon="11.157089942935739">
+    </trkpt>
+    <trkpt lat="46.218369924217477" lon="11.157130092258864">
+    </trkpt>
+    <trkpt lat="46.218382850977413" lon="11.157170015300505">
+    </trkpt>
+    <trkpt lat="46.218337343304249" lon="11.157168232392145">
+    </trkpt>
+    <trkpt lat="46.21831375599006" lon="11.157206724839432">
+    </trkpt>
+    <trkpt lat="46.218262670983187" lon="11.157257235528887">
+    </trkpt>
+    <trkpt lat="46.218179252034254" lon="11.157332800125392">
+    </trkpt>
+    <trkpt lat="46.218072834593364" lon="11.157420429282007">
+    </trkpt>
+    <trkpt lat="46.217980613880655" lon="11.157475940338399">
+    </trkpt>
+    <trkpt lat="46.217865267480931" lon="11.157550253171472">
+    </trkpt>
+    <trkpt lat="46.217805967215355" lon="11.157554412453452">
+    </trkpt>
+    <trkpt lat="46.217767269079161" lon="11.157563787398539">
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

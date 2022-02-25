@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TrentinoMountains.Views.Testing"
+             xmlns:mapsui="clr-namespace:Mapsui.UI.Forms;assembly=Mapsui.UI.Forms"
+             NavigationPage.HasNavigationBar="false">
+    <ContentPage.Content>
+        <StackLayout>
+            <mapsui:MapView x:Name="mapView"
+            VerticalOptions="FillAndExpand"
+            HorizontalOptions="Fill"
+            BackgroundColor="Gray" />
+
+
+            <!--<ListView x:Name="lst" >
+                
+            </ListView>-->
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

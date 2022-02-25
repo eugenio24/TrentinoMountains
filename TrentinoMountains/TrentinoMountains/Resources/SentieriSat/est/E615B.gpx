@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.2.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="46.416221519074632" minlon="11.714100944797609" maxlat="46.416754399659567" maxlon="11.716057071597154"/></metadata>                  
+<trk>
+  <name>E615B</name>
+  <trkseg>
+    <trkpt lat="46.416754399659567" lon="11.716057071597154">
+    </trkpt>
+    <trkpt lat="46.4167013071905" lon="11.716037776657785">
+    </trkpt>
+    <trkpt lat="46.416652019980184" lon="11.716002274155505">
+    </trkpt>
+    <trkpt lat="46.416570311864632" lon="11.715895670346502">
+    </trkpt>
+    <trkpt lat="46.416511967325867" lon="11.715828486397564">
+    </trkpt>
+    <trkpt lat="46.41648617496152" lon="11.715807945455751">
+    </trkpt>
+    <trkpt lat="46.416443225202322" lon="11.715789805427583">
+    </trkpt>
+    <trkpt lat="46.416402599193816" lon="11.715795074451528">
+    </trkpt>
+    <trkpt lat="46.416348095181085" lon="11.715763217148709">
+    </trkpt>
+    <trkpt lat="46.4162930758526" lon="11.715722745635578">
+    </trkpt>
+    <trkpt lat="46.416238231449988" lon="11.715625675774005">
+    </trkpt>
+    <trkpt lat="46.416221519074632" lon="11.715363151541622">
+    </trkpt>
+    <trkpt lat="46.416243716522274" lon="11.715046343326028">
+    </trkpt>
+    <trkpt lat="46.416278693624548" lon="11.714695424429495">
+    </trkpt>
+    <trkpt lat="46.416303497315681" lon="11.714454481546865">
+    </trkpt>
+    <trkpt lat="46.416314594301923" lon="11.714100944797609">
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

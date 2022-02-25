@@ -18,8 +18,6 @@ namespace TrentinoMountains.Droid
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
 
-            FormsMaps.Init(this, savedInstanceState);
-
 
             LoadApplication(new App());
         }

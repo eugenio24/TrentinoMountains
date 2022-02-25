@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.2.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="46.278937631923711" minlon="10.895794605429101" maxlat="46.282590086836144" maxlon="10.904394507602236"/></metadata>                  
+<trk>
+  <name>O336A</name>
+  <desc>SENTIERO &quot;GIANANTONIO ALBASINI&quot;</desc>
+  <trkseg>
+    <trkpt lat="46.278937631923711" lon="10.895794605429101">
+    </trkpt>
+    <trkpt lat="46.279003721778842" lon="10.895928504878144">
+    </trkpt>
+    <trkpt lat="46.279104650919663" lon="10.895888243879027">
+    </trkpt>
+    <trkpt lat="46.27912020488634" lon="10.895981459408949">
+    </trkpt>
+    <trkpt lat="46.279075997114852" lon="10.896188656068569">
+    </trkpt>
+    <trkpt lat="46.278991824096636" lon="10.896309322986481">
+    </trkpt>
+    <trkpt lat="46.279004630631235" lon="10.89639452569854">
+    </trkpt>
+    <trkpt lat="46.27910726561997" lon="10.896522678037208">
+    </trkpt>
+    <trkpt lat="46.279099021318622" lon="10.896585607214375">
+    </trkpt>
+    <trkpt lat="46.279022641100127" lon="10.896784423834866">
+    </trkpt>
+    <trkpt lat="46.279016857376263" lon="10.896970230611419">
+    </trkpt>
+    <trkpt lat="46.278984782162297" lon="10.897275975318321">
+    </trkpt>
+    <trkpt lat="46.279043820875287" lon="10.897422483610365">
+    </trkpt>
+    <trkpt lat="46.2792023632622" lon="10.897614614231193">
+    </trkpt>
+    <trkpt lat="46.279392978352526" lon="10.897945704485986">
+    </trkpt>
+    <trkpt lat="46.279550368236649" lon="10.898218016547739">
+    </trkpt>
+    <trkpt lat="46.279685577610806" lon="10.898644419645979">
+    </trkpt>
+    <trkpt lat="46.279928893140891" lon="10.899281079763609">
+    </trkpt>
+    <trkpt lat="46.280364487443286" lon="10.899655437471722">
+    </trkpt>
+    <trkpt lat="46.280496695912653" lon="10.900056304836948">
+    </trkpt>
+    <trkpt lat="46.280639554080302" lon="10.900379529113804">
+    </trkpt>
+    <trkpt lat="46.280986801292507" lon="10.901081721824223">
+    </trkpt>
+    <trkpt lat="46.281089365546137" lon="10.90138694201679">
+    </trkpt>
+    <trkpt lat="46.281626147532833" lon="10.902121670020181">
+    </trkpt>
+    <trkpt lat="46.281895399213056" lon="10.902594019802114">
+    </trkpt>
+    <trkpt lat="46.28232275594555" lon="10.902921920080058">
+    </trkpt>
+    <trkpt lat="46.282333227604632" lon="10.90312543536429">
+    </trkpt>
+    <trkpt lat="46.28231163413971" lon="10.90317907776125">
+    </trkpt>
+    <trkpt lat="46.282337052490021" lon="10.903230843745108">
+    </trkpt>
+    <trkpt lat="46.282377413685452" lon="10.903412158629951">
+    </trkpt>
+    <trkpt lat="46.282487292444287" lon="10.903493981239949">
+    </trkpt>
+    <trkpt lat="46.28255256105269" lon="10.903687453336802">
+    </trkpt>
+    <trkpt lat="46.282590086836144" lon="10.903920076012984">
+    </trkpt>
+    <trkpt lat="46.282556310842892" lon="10.904132314036866">
+    </trkpt>
+    <trkpt lat="46.28243953106881" lon="10.904394507602236">
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

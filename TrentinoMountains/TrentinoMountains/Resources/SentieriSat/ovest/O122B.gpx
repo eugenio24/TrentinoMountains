@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.2.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="46.356149132911519" minlon="10.609065115933378" maxlat="46.357429912768005" maxlon="10.613903523910144"/></metadata>                  
+<trk>
+  <name>O122B</name>
+  <trkseg>
+    <trkpt lat="46.357194096397819" lon="10.609065115933378">
+    </trkpt>
+    <trkpt lat="46.357190476978154" lon="10.609322252672428">
+    </trkpt>
+    <trkpt lat="46.357178056610117" lon="10.609603568330821">
+    </trkpt>
+    <trkpt lat="46.357027731043743" lon="10.610040065740606">
+    </trkpt>
+    <trkpt lat="46.356897338744361" lon="10.610268909479535">
+    </trkpt>
+    <trkpt lat="46.356447474359179" lon="10.610904704976193">
+    </trkpt>
+    <trkpt lat="46.356356865075774" lon="10.61131838171128">
+    </trkpt>
+    <trkpt lat="46.356206877459648" lon="10.611730440889968">
+    </trkpt>
+    <trkpt lat="46.356149132911519" lon="10.612091787783687">
+    </trkpt>
+    <trkpt lat="46.356293084260415" lon="10.612324924256475">
+    </trkpt>
+    <trkpt lat="46.356502708868803" lon="10.612400373016413">
+    </trkpt>
+    <trkpt lat="46.356731226136858" lon="10.612431663295544">
+    </trkpt>
+    <trkpt lat="46.35696138151814" lon="10.612340425424648">
+    </trkpt>
+    <trkpt lat="46.357199392408376" lon="10.612298422776812">
+    </trkpt>
+    <trkpt lat="46.357392958587937" lon="10.612402127422243">
+    </trkpt>
+    <trkpt lat="46.35738708812508" lon="10.612818302542376">
+    </trkpt>
+    <trkpt lat="46.35738138849748" lon="10.613222263844534">
+    </trkpt>
+    <trkpt lat="46.357249434838373" lon="10.613561284075329">
+    </trkpt>
+    <trkpt lat="46.357240114632674" lon="10.613622233305367">
+    </trkpt>
+    <trkpt lat="46.357429912768005" lon="10.613903523910144">
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

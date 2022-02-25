@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.2.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="46.023445698756611" minlon="11.180022163810435" maxlat="46.025518995001050" maxlon="11.181344701468401"/></metadata>                  
+<trk>
+  <name>E412A</name>
+  <trkseg>
+    <trkpt lat="46.023445698756611" lon="11.181344701468401">
+    </trkpt>
+    <trkpt lat="46.0235477986677" lon="11.181253367012749">
+    </trkpt>
+    <trkpt lat="46.023839841326662" lon="11.180924664383415">
+    </trkpt>
+    <trkpt lat="46.024018588131391" lon="11.180722127269243">
+    </trkpt>
+    <trkpt lat="46.024120975970945" lon="11.180596821320758">
+    </trkpt>
+    <trkpt lat="46.024186957949773" lon="11.180945297441092">
+    </trkpt>
+    <trkpt lat="46.024310250124024" lon="11.180748071557975">
+    </trkpt>
+    <trkpt lat="46.024414318895637" lon="11.180459257456398">
+    </trkpt>
+    <trkpt lat="46.024522771755173" lon="11.180256665475186">
+    </trkpt>
+    <trkpt lat="46.024593332260153" lon="11.180190832469957">
+    </trkpt>
+    <trkpt lat="46.024683834314366" lon="11.180164803690174">
+    </trkpt>
+    <trkpt lat="46.024897287502462" lon="11.180148003282143">
+    </trkpt>
+    <trkpt lat="46.024979613693041" lon="11.180022163810435">
+    </trkpt>
+    <trkpt lat="46.025045640540604" lon="11.180250484315543">
+    </trkpt>
+    <trkpt lat="46.025124741375926" lon="11.180095575501452">
+    </trkpt>
+    <trkpt lat="46.025211400749718" lon="11.180351066440396">
+    </trkpt>
+    <trkpt lat="46.025325308813862" lon="11.18034365966991">
+    </trkpt>
+    <trkpt lat="46.025372059161747" lon="11.180384131477668">
+    </trkpt>
+    <trkpt lat="46.02551899500105" lon="11.180532556264124">
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

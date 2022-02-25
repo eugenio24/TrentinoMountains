@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.2.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="45.862965297567314" minlon="10.900206611057996" maxlat="45.864861361035786" maxlon="10.900590197238483"/></metadata>                  
+<trk>
+  <name>O601A</name>
+  <desc>SENTIERO DEL DOS DEI FRASSINI (Variante del  Segron)</desc>
+  <trkseg>
+    <trkpt lat="45.864861361035786" lon="10.900206611057996">
+    </trkpt>
+    <trkpt lat="45.864850572598343" lon="10.900297844184541">
+    </trkpt>
+    <trkpt lat="45.864830816351144" lon="10.900381685743461">
+    </trkpt>
+    <trkpt lat="45.864769335700771" lon="10.900382037966301">
+    </trkpt>
+    <trkpt lat="45.864676554309206" lon="10.900489285664309">
+    </trkpt>
+    <trkpt lat="45.864602139196549" lon="10.900509681351085">
+    </trkpt>
+    <trkpt lat="45.864450145710329" lon="10.900497156766635">
+    </trkpt>
+    <trkpt lat="45.864421370422022" lon="10.900517175637548">
+    </trkpt>
+    <trkpt lat="45.864404915072122" lon="10.900467529429411">
+    </trkpt>
+    <trkpt lat="45.864368189003123" lon="10.900586736106829">
+    </trkpt>
+    <trkpt lat="45.864348492924208" lon="10.900585807023095">
+    </trkpt>
+    <trkpt lat="45.864329266147116" lon="10.900524213789868">
+    </trkpt>
+    <trkpt lat="45.864260096303518" lon="10.900548524259413">
+    </trkpt>
+    <trkpt lat="45.864171099691845" lon="10.900579759908055">
+    </trkpt>
+    <trkpt lat="45.864090526941482" lon="10.90058074943081">
+    </trkpt>
+    <trkpt lat="45.864016203955643" lon="10.900590197238483">
+    </trkpt>
+    <trkpt lat="45.86395786107132" lon="10.900585889443175">
+    </trkpt>
+    <trkpt lat="45.863895016189204" lon="10.900560042150696">
+    </trkpt>
+    <trkpt lat="45.863884101498144" lon="10.900566884658961">
+    </trkpt>
+    <trkpt lat="45.863835656078443" lon="10.900519498089354">
+    </trkpt>
+    <trkpt lat="45.863786066692249" lon="10.900535457624713">
+    </trkpt>
+    <trkpt lat="45.863727957251641" lon="10.900533348000128">
+    </trkpt>
+    <trkpt lat="45.863668849601616" lon="10.900564185107076">
+    </trkpt>
+    <trkpt lat="45.863586387789361" lon="10.900559699376858">
+    </trkpt>
+    <trkpt lat="45.863536198842631" lon="10.900535958502674">
+    </trkpt>
+    <trkpt lat="45.863533136053583" lon="10.900536111762721">
+    </trkpt>
+    <trkpt lat="45.863411159922123" lon="10.900547928946832">
+    </trkpt>
+    <trkpt lat="45.863384387384038" lon="10.900523311554846">
+    </trkpt>
+    <trkpt lat="45.863347920958233" lon="10.900513308076336">
+    </trkpt>
+    <trkpt lat="45.863253736987993" lon="10.900515508553955">
+    </trkpt>
+    <trkpt lat="45.863155162463741" lon="10.900467831041203">
+    </trkpt>
+    <trkpt lat="45.862965297567314" lon="10.900405318654244">
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

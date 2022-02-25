@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.2.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="45.989137454273973" minlon="11.374531015372993" maxlat="45.990543554389014" maxlon="11.375295959281692"/></metadata>                  
+<trk>
+  <name>E207A</name>
+  <desc>SENTIERO DELLA GROTTA DI COSTALTA</desc>
+  <trkseg>
+    <trkpt lat="45.990543554389014" lon="11.375088202423614">
+    </trkpt>
+    <trkpt lat="45.990453223041392" lon="11.37509518312952">
+    </trkpt>
+    <trkpt lat="45.99041887054296" lon="11.375141360607516">
+    </trkpt>
+    <trkpt lat="45.990342956048458" lon="11.375186533984936">
+    </trkpt>
+    <trkpt lat="45.990119348658382" lon="11.375179417319117">
+    </trkpt>
+    <trkpt lat="45.990058943086119" lon="11.37522757844453">
+    </trkpt>
+    <trkpt lat="45.989927912191042" lon="11.375295959281692">
+    </trkpt>
+    <trkpt lat="45.989801042486668" lon="11.375289754516041">
+    </trkpt>
+    <trkpt lat="45.989732251755754" lon="11.375187125889472">
+    </trkpt>
+    <trkpt lat="45.989697626103137" lon="11.375181511994786">
+    </trkpt>
+    <trkpt lat="45.989591947237912" lon="11.375112814297557">
+    </trkpt>
+    <trkpt lat="45.989549882437323" lon="11.375148976671225">
+    </trkpt>
+    <trkpt lat="45.989487219281642" lon="11.375193167011709">
+    </trkpt>
+    <trkpt lat="45.98946235545192" lon="11.37519855911334">
+    </trkpt>
+    <trkpt lat="45.989437945443825" lon="11.375216753927893">
+    </trkpt>
+    <trkpt lat="45.989420499767924" lon="11.375216007289632">
+    </trkpt>
+    <trkpt lat="45.989410109634754" lon="11.375191932899225">
+    </trkpt>
+    <trkpt lat="45.98943956565622" lon="11.375130180935772">
+    </trkpt>
+    <trkpt lat="45.989440276422705" lon="11.375087342121265">
+    </trkpt>
+    <trkpt lat="45.989433649626029" lon="11.375055423099708">
+    </trkpt>
+    <trkpt lat="45.989408022469817" lon="11.374993638050077">
+    </trkpt>
+    <trkpt lat="45.989335035558561" lon="11.374876369094157">
+    </trkpt>
+    <trkpt lat="45.989321731293884" lon="11.3748409363254">
+    </trkpt>
+    <trkpt lat="45.989256262761195" lon="11.374781966030669">
+    </trkpt>
+    <trkpt lat="45.989248375494874" lon="11.374745732134535">
+    </trkpt>
+    <trkpt lat="45.989181647789607" lon="11.374678056875839">
+    </trkpt>
+    <trkpt lat="45.989169975386652" lon="11.374633397180492">
+    </trkpt>
+    <trkpt lat="45.989149470320555" lon="11.374602304928095">
+    </trkpt>
+    <trkpt lat="45.989137454273973" lon="11.374556855831058">
+    </trkpt>
+    <trkpt lat="45.98914312181914" lon="11.374531015372993">
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

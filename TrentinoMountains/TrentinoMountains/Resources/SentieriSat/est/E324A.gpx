@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.2.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="46.111966979772426" minlon="11.362936947825682" maxlat="46.117376785969320" maxlon="11.365881760398173"/></metadata>                  
+<trk>
+  <name>E324A</name>
+  <desc>SENTER DELE VACHE</desc>
+  <trkseg>
+    <trkpt lat="46.11737678596932" lon="11.36298576362036">
+    </trkpt>
+    <trkpt lat="46.117277952513774" lon="11.362938309405596">
+    </trkpt>
+    <trkpt lat="46.117197696671091" lon="11.362936947825682">
+    </trkpt>
+    <trkpt lat="46.117028801218055" lon="11.363104574202211">
+    </trkpt>
+    <trkpt lat="46.116873563697183" lon="11.363203672432533">
+    </trkpt>
+    <trkpt lat="46.116724666464492" lon="11.363266026734465">
+    </trkpt>
+    <trkpt lat="46.11663906914729" lon="11.363213961900474">
+    </trkpt>
+    <trkpt lat="46.116456419367829" lon="11.363258953471272">
+    </trkpt>
+    <trkpt lat="46.116242468823529" lon="11.363411707425763">
+    </trkpt>
+    <trkpt lat="46.115996233399002" lon="11.363558808320617">
+    </trkpt>
+    <trkpt lat="46.115681109862642" lon="11.36383807459416">
+    </trkpt>
+    <trkpt lat="46.115433031222395" lon="11.364026377865322">
+    </trkpt>
+    <trkpt lat="46.115235626216418" lon="11.364123278384126">
+    </trkpt>
+    <trkpt lat="46.115054013203505" lon="11.364244278543588">
+    </trkpt>
+    <trkpt lat="46.114686081497112" lon="11.364322233453651">
+    </trkpt>
+    <trkpt lat="46.114541520287567" lon="11.364322906951108">
+    </trkpt>
+    <trkpt lat="46.114334280920865" lon="11.364333969585154">
+    </trkpt>
+    <trkpt lat="46.114098312292391" lon="11.364402428097108">
+    </trkpt>
+    <trkpt lat="46.113852321305806" lon="11.364485469332546">
+    </trkpt>
+    <trkpt lat="46.113620515429083" lon="11.364674589571257">
+    </trkpt>
+    <trkpt lat="46.113337701303081" lon="11.364966868023016">
+    </trkpt>
+    <trkpt lat="46.113122324751927" lon="11.365144911166926">
+    </trkpt>
+    <trkpt lat="46.113023061804576" lon="11.36522258098657">
+    </trkpt>
+    <trkpt lat="46.112682993057255" lon="11.365524049764973">
+    </trkpt>
+    <trkpt lat="46.112550692475956" lon="11.365623727559768">
+    </trkpt>
+    <trkpt lat="46.112361710361427" lon="11.365709331286073">
+    </trkpt>
+    <trkpt lat="46.11218982860624" lon="11.365768878471469">
+    </trkpt>
+    <trkpt lat="46.112032954463572" lon="11.365846926482277">
+    </trkpt>
+    <trkpt lat="46.111966979772426" lon="11.365881760398173">
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>
