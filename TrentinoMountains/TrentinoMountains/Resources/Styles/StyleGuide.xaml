@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ResourceDictionary xmlns="http://xamarin.com/schemas/2014/forms"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                    x:Class="TrentinoMountains.Resources.Styles.StyleGuide"
+                    xmlns:styles="clr-namespace:TrentinoMountains.Resources.Styles">
+    <?xaml-comp compile="true"?>
+    <ResourceDictionary.MergedDictionaries>
+        
+    </ResourceDictionary.MergedDictionaries>
+</ResourceDictionary>

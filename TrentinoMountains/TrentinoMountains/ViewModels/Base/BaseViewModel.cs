@@ -5,7 +5,7 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using Xamarin.Forms;
 
-namespace TrentinoMountains.Utils
+namespace TrentinoMountains.ViewModels.Base
 {
     class BaseViewModel : INotifyPropertyChanged
     {

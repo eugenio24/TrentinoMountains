@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Text;
 using System.Windows.Input;
 using TrentinoMountains.Utils;
+using TrentinoMountains.ViewModels.Base;
 using Xamarin.Forms;
 
 namespace TrentinoMountains.CustomControls.ViewModels

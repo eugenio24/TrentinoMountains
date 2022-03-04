@@ -28,8 +28,34 @@ namespace TrentinoMountains.Views
         {
             InitializeComponent();
 
+            //var map = new Mapsui.Map
+            //{
+            //    CRS = "EPSG:3857",
+            //    Transformation = new MinimalTransformation()
+            //};
+
+            //map.Home = n => n.NavigateTo(SphericalMercator.FromLonLat(-81.2497, 42.9837), map.Resolutions[9]);
+
+            //var tileLayer = OpenStreetMap.CreateTileLayer();
+
+            //map.Layers.Add(tileLayer);
+            //map.Widgets.Add(new Mapsui.Widgets.ScaleBar.ScaleBarWidget(map)
+            //{
+            //    TextAlignment = Mapsui.Widgets.Alignment.Center,
+            //    HorizontalAlignment = Mapsui.Widgets.HorizontalAlignment.Left,
+            //    VerticalAlignment = Mapsui.Widgets.VerticalAlignment.Bottom
+            //});
+
+            //var location = Geolocation.GetLastKnownLocationAsync().Result;
+
+            //mapView.MyLocationLayer.UpdateMyLocation(new Mapsui.UI.Forms.Position(location.Latitude, location.Longitude));
+
+            //mapView.Map = map;
+
             mapView.Map = CreateMap();
         }
+
+
 
         public Map CreateMap()
         {

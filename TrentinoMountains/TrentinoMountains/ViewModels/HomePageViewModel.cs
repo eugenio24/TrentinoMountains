@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Windows.Input;
 using TrentinoMountains.CustomControls.ViewModels;
-using TrentinoMountains.Utils;
+using TrentinoMountains.ViewModels.Base;
 using TrentinoMountains.Views;
 using Xamarin.Forms;
 
@@ -12,11 +12,9 @@ namespace TrentinoMountains.ViewModels
     class HomePageViewModel : BaseViewModel
     {
         #region Properties
-
         public HomePageCardViewModel Card_SentieriSAT { get; set; }
 
         public HomePageCardViewModel Card_CustomTracks { get; set; }
-
         #endregion
 
         #region Constructor
@@ -38,6 +36,10 @@ namespace TrentinoMountains.ViewModels
                 GotoPage = new CustomTracksView()
             };
         }
+        #endregion
+
+        #region Commands
+        public ICommand UserProfile_Click => new Command(async () => { await Navigation.PushAsync(new UserProfileView()); });
         #endregion
     }
 }

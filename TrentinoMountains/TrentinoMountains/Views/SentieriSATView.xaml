@@ -1,13 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="TrentinoMountains.Views.SentieriSATView"
+             xmlns:mapsui="clr-namespace:Mapsui.UI.Forms;assembly=Mapsui.UI.Forms" 
+             xmlns:viewmodels="clr-namespace:TrentinoMountains.ViewModels" 
+             xmlns:converter="clr-namespace:TrentinoMountains.Utils" 
+             xmlns:xct="http://xamarin.com/schemas/2020/toolkit"
+             x:DataType="viewmodels:SentieriSATViewModel"
+             x:Class="TrentinoMountains.Views.SentieriSATView"               
              NavigationPage.HasNavigationBar="false">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <converter:InverseBooleanConverter x:Key="InverseBooleanConverter" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Behaviors>
+        <xct:EventToCommandBehavior EventName="Appearing" Command="{Binding PageLoadedCommand}" />
+    </ContentPage.Behaviors>
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Sentieri SAT"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+
+            <ActivityIndicator VerticalOptions="CenterAndExpand" IsVisible="{Binding MapLoaded, Converter={StaticResource InverseBooleanConverter}}" IsRunning="{Binding MapLoaded, Converter={StaticResource InverseBooleanConverter}}" />
+
+            <mapsui:MapView x:Name="mapView"
+                IsVisible="{Binding MapLoaded}"
+                VerticalOptions="FillAndExpand"
+                HorizontalOptions="Fill"
+                BackgroundColor="Gray" />
+
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

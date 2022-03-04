@@ -8,7 +8,7 @@
              x:Class="TrentinoMountains.Views.HomePageView"
              NavigationPage.HasNavigationBar="false">
 
-    <StackLayout>
+    <StackLayout BackgroundColor="#EDEDED">
 
         <Grid Margin="10">
             <Grid.RowDefinitions>
@@ -20,6 +20,9 @@
             </Grid.ColumnDefinitions>
             <Label Grid.Column="0" VerticalOptions="Center" FontSize="20">Montagne del Trentino</Label>
             <Frame Grid.Column="1" BorderColor="Black" CornerRadius="100" Padding="7" Margin="0">
+                <Frame.GestureRecognizers>
+                    <TapGestureRecognizer Command="{Binding UserProfile_Click}" />
+                </Frame.GestureRecognizers>
                 <Image Source="{local:ImageResource TrentinoMountains.Resources.Images.user.png}" Aspect="AspectFit" />
             </Frame>
         </Grid>
